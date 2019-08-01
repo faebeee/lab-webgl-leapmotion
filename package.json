@@ -12,6 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "@faebeee/lab-utils": "^1.1.0",
+        "leapjs": "^0.6.4",
         "lite-server": "^2.4.0",
         "three": "^0.106.2"
     },
@@ -20,6 +21,7 @@
         "@babel/preset-env": "^7.4.5",
         "rollup": "^1.17.0",
         "rollup-plugin-babel": "^4.3.2",
+        "rollup-plugin-commonjs": "^9.3.4",
         "rollup-plugin-node-resolve": "^5.0.0"
     }
 }
