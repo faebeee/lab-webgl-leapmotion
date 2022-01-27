@@ -14,7 +14,7 @@
         "@faebeee/lab-utils": "^1.1.0",
         "leapjs": "^0.6.4",
         "lite-server": "^2.4.0",
-        "three": "^0.106.2"
+        "three": "^0.137.0"
     },
     "devDependencies": {
         "@babel/core": "^7.4.5",
